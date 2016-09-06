@@ -13,3 +13,7 @@ This is in anticipation for using C# to learn game making basics in 2D and 3D en
 Today I revisited the beginning lessons, I wanted to make sure that I was able to get back into it, turns out I shouldn't have been so worried. I hadn't gotten all that far to start with.
 
 I didn't have time to work on my commit today, but tomorrow I will!
+
+Paired down some Ideas I had for my solo project, no progress on C# today.
+
+Compiled a large amount of DB code for my solo Project. no C# again though
